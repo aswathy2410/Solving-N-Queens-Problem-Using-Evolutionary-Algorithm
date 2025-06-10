@@ -1,0 +1,11 @@
+N =8
+Population size = 50
+Generations = 500
+Tournament size = 3
+Mutation rate = 0.05
+Mutation type = swap
+Type of crossover = pmx
+Crossover_rate = 0.9
+Solution: [1, 5, 8, 6, 3, 7, 2, 4]
+Generation of Solution:3
+Runtime of the Algorithm: 0.0
